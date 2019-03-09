@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/itemlist"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="?android:selectableItemBackground"
@@ -24,5 +25,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/title" />
+    <TextView
+        android:id="@+id/year"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/year"
+        android:layout_alignParentRight="true"/>
 
 </RelativeLayout>
