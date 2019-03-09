@@ -75,13 +75,6 @@ public class SampleDataListView extends AppCompatActivity {
                         Toast.makeText(getApplicationContext(), "Hallo", Toast.LENGTH_SHORT).show();
                     }break;
                 }
-//                if (position==0){
-//                    Toast.makeText(getApplicationContext(), "Hallo saya dari Facebook", Toast.LENGTH_SHORT).show();
-//                } else if (position==1){
-//                    Toast.makeText(getApplicationContext(), "Hallo saya dari Twitter", Toast.LENGTH_SHORT).show();
-//                }else{
-//                    Toast.makeText(getApplicationContext(), "Hallo saya sosmed lain", Toast.LENGTH_SHORT).show();
-//                }
             }
         });
         registerForContextMenu(lv);

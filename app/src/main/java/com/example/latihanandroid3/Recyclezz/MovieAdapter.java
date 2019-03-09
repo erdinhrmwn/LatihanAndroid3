@@ -1,4 +1,4 @@
-package com.example.latihanandroid3.Recycle;
+package com.example.latihanandroid3.Recyclezz;
 
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;
