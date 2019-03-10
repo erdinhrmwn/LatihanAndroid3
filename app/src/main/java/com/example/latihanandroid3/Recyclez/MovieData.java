@@ -1,4 +1,4 @@
-package com.example.latihanandroid3.Recyclezz;
+package com.example.latihanandroid3.Recyclez;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;

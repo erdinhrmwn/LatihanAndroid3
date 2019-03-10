@@ -1,4 +1,4 @@
-package com.example.latihanandroid3.Recyclezz;
+package com.example.latihanandroid3.Recyclez;
 
 public class Movie {
     private String title, genre, year;
